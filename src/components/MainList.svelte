@@ -83,7 +83,7 @@ onMount(()=>{
 		{/await}
 	</div>
 	<br>
-	<p id="footer">© 2021 alombi - Developed and designed by alombi - URLs Collection by u/FifiTheBulldog</p>
+	<p id="footer">© 2021 alombi uvacoder - Developed and designed by alombi - URLs Collection by u/FifiTheBulldog</p>
 </div>
 
 <style>
