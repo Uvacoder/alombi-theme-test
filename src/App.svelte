@@ -12,7 +12,7 @@
 	<Route path="/">
 		<div id="page">
 			<Navbar />
-			<h1>iOS Settings URLs</h1>
+			<h1>iOS Settings URL Links</h1>
 			<MainList />
 		</div>
 		<div id="modal">
